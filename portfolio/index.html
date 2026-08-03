@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio | mike</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <nav>
+    <span class="nav-logo" id="navLogo">portfolio</span>
+    <ul class="nav-links">
+      <li><a href="#skills">skills</a></li>
+      <li><a href="#projects">projects</a></li>
+    </ul>
+    <button class="menu-toggle" aria-label="เปิดเมนู" onclick="toggleMenu()">
+      <span></span><span></span><span></span>
+    </button>
+  </nav>
+
+  <div class="mobile-nav" id="mobileNav">
+    <a href="#skills" onclick="closeMenu()">skills</a>
+    <a href="#projects" onclick="closeMenu()">projects</a>
+  </div>
+
+  <div class="hero">
+    <p class="hero-tag" id="heroTag"></p>
+    <h1 id="heroTitle"></h1>
+    <p class="hero-desc" id="heroDesc"></p>
+    <a href="#projects" class="btn btn-primary">ดูผลงาน →</a>
+  </div>
+
+  <section id="skills">
+    <p class="section-label">// skills</p>
+    <h2 class="section-title">สิ่งที่ทำได้</h2>
+    <div class="skills-grid" id="skillsGrid"></div>
+  </section>
+
+  <section id="projects">
+    <p class="section-label">// projects</p>
+    <h2 class="section-title">ผลงาน</h2>
+    <div class="filter-bar" id="filterBar"></div>
+    <div class="projects-grid" id="projectsGrid"></div>
+  </section>
+
+  <footer id="footer"></footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
