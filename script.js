@@ -28,7 +28,7 @@ const data = {
       desc: "เว็บแอปเกี่ยวกับ แจ้งซ่อม computer",
       tech: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
       category: "Web",
-      url: "https://github.com/mikegonna/computer-report",
+      url: "https://github.com/mikegonna/computer-report-system",
       year: "2026"
     }
   ]
