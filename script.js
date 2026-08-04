@@ -8,7 +8,7 @@ const data = {
 
   skills: [
     { category: "Frontend", tags: ["HTML", "CSS", "JavaScript"] },
-    { category: "Backend",  tags: ["Python", "PHP", "MySQL"] },
+    { category: "Backend",  tags: ["PHP", "MySQL"] },
     { category: "Tools",    tags: ["VS Code", "GitHub", "Git"] }
   ],
 
