@@ -9,7 +9,7 @@ const data = {
   skills: [
     { category: "Frontend", tags: ["HTML", "CSS", "JavaScript"] },
     { category: "Backend",  tags: ["Python", "PHP", "MySQL"] },
-    { category: "Tools",    tags: ["VS Code", "GitHub"] }
+    { category: "Tools",    tags: ["VS Code", "GitHub", "Git"] }
   ],
 
   /* เพิ่มผลงานใหม่ตรงนี้
@@ -29,6 +29,14 @@ const data = {
       tech: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
       category: "Web",
       url: "https://github.com/mikegonna/computer-report-system",
+      year: "2026"
+    },
+    {
+      name: "Checklist System",
+      desc: "เว็บแอปเกี่ยวกับ ตรวจสอบความพร้อมใช้งานของห้อง Datacenter และ กล้อง CCTV แต่ละจุด",
+      tech: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+      category: "Web",
+      url: "https://github.com/mikegonna/checklist-system",
       year: "2026"
     }
   ]
