@@ -38,6 +38,14 @@ const data = {
       category: "Web",
       url: "https://github.com/mikegonna/checklist-system",
       year: "2026"
+    },
+    {
+      name: "meet-booking",
+      desc: "เว็บแอปเกี่ยวกับ จองห้องประชุม สามารถเพิ่ม ลบ แก้ไขได้",
+      tech: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+      category: "Web",
+      url: "https://github.com/mikegonna/meet-booking",
+      year: "2026"
     }
   ]
 };
