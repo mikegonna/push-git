@@ -4,7 +4,7 @@
 const data = {
   name: "Mike Chaethong",
   role: "Web APP Developer",
-  desc: "ผมสร้าง digital products ที่ใส่ใจทั้ง code quality และ user experience",
+  desc: "Full-stack developer เขียนได้ทั้ง frontend และ backend ชอบแก้ปัญหาและสร้างของที่ใช้งานได้จริง — บางทีก็เขียนบทความด้วย",
 
   skills: [
     { category: "Frontend", tags: ["HTML", "CSS", "JavaScript"] },
