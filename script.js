@@ -20,7 +20,7 @@ const data = {
       desc: "เว็บ portfolio ส่วนตัว สร้างด้วย HTML/CSS/JS ล้วน ไม่พึ่ง framework",
       tech: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
       category: "Web",
-      url: "https://github.com/mikegonna/push-git",
+      url: "https://github.com/mikegonna/my-portfolio",
       year: "2026"
     },
     {
