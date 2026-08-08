@@ -48,11 +48,11 @@ const data = {
       year: "2026"
     },
     {
-      name: "lottery",
-      desc: "เว็บไว้สำหรับส่มตัวเลขเพื่อรับของรางวัล",
+      name: "lotterry",
+      desc: "เว็บไว้สำหรับส่มตัวเลขเพื่อรับของรางวัล ภายในองค์กร",
       tech: ["HTML", "CSS", "JavaScript"],
       category: "Web",
-      url: "https://github.com/mikegonna/lottery",
+      url: "https://github.com/mikegonna/lotterry",
       year: "2026"
     }
   ]
