@@ -46,6 +46,14 @@ const data = {
       category: "Web",
       url: "https://github.com/mikegonna/meet-booking",
       year: "2026"
+    },
+    {
+      name: "lottery",
+      desc: "เว็บไว้สำหรับส่มตัวเลขเพื่อรับของรางวัล",
+      tech: ["HTML", "CSS", "JavaScript"],
+      category: "Web",
+      url: "https://github.com/mikegonna/lottery",
+      year: "2026"
     }
   ]
 };
