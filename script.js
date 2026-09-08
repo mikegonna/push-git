@@ -4,7 +4,7 @@
 const data = {
   name: "Mike Chaethong",
   role: "Web APP Developer",
-  desc: "Full-stack developer เขียนได้ทั้ง frontend และ backend ชอบแก้ปัญหาและสร้างของที่ใช้งานได้จริง — บางทีก็เขียนบทความด้วย",
+  desc: "ชอบสร้าง WebSite นี้ก็เป็นส่วน 1 เหมือนกัน \n ชื่อจริง : ปฐมพร เชื้อทอง ชื่อเล่น : ไม้ อายุ : 24 ปี",
 
   skills: [
     { category: "Frontend", tags: ["HTML", "CSS", "JavaScript"] },
