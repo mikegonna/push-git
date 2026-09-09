@@ -4,7 +4,7 @@
 const data = {
   name: "Mike Chaethong",
   role: "Web APP Developer",
-  desc: "ชอบสร้าง WebSite นี้ก็เป็นส่วน 1 เหมือนกัน \n ชื่อจริง : ปฐมพร เชื้อทอง ชื่อเล่น : ไม้ อายุ : 24 ปี",
+  desc: "ชื่อ ปฐมพร เชื้อทอง ไม้ 24 ปี สร้าง Web นี้ขึ้นมาเพื่อเก็บสะสมผลงานตัวเอง และ ไว้สำหรับนำเสนอ",
 
   skills: [
     { category: "Frontend", tags: ["HTML", "CSS", "JavaScript"] },
